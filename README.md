@@ -27,7 +27,7 @@ A final graphic to share, shows that there is some similarities in total fares b
 
 ## SUMMARY
 Some recommendations were shared above, alongside the data discussion. Those include:
-*Standardizing fare rates in rural cities to provide more predictability to the riders
-*Otherwise address higher fare data with a marketing campaign that is geared toward the benefits of riders using ride share in rural cities
-*Increase drivers in rural cities to stabilize the fare costs, increasing drivers would naturally increase accessibility which was one of the reason V. Isualize was interested in better understanding PyBer data
-     -It will be important to keep in mind the stability in rural cities and not increase drivers too much in one rural city.  Distance to other rural cities, or even suburban and urban cities, may also allow for PyBer driver sharing across locations, which should support a more stabilized fare cost while also increasing the accessibility. 
+ *Standardizing fare rates in rural cities to provide more predictability to the riders
+ *Otherwise address higher fare data with a marketing campaign that is geared toward the benefits of riders using ride share in rural cities
+ *Increase drivers in rural cities to stabilize the fare costs, increasing drivers would naturally increase accessibility which was one of the reason V. Isualize was interested in better understanding PyBer data
+      -It will be important to keep in mind the stability in rural cities and not increase drivers too much in one rural city.  Distance to other rural cities, or even suburban and urban cities, may also allow for PyBer driver sharing across locations, which should support a more stabilized fare cost while also increasing the accessibility. 
