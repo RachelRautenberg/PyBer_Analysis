@@ -18,7 +18,8 @@ As we view the fares by city type we see that rural cities have larger fares and
 ![fig2](https://github.com/RachelRautenberg/PyBer_Analysis/blob/main/analysis/Fig2.png) ![fig3](https://github.com/RachelRautenberg/PyBer_Analysis/blob/main/analysis/Fig3.png) ![fig4](https://github.com/RachelRautenberg/PyBer_Analysis/blob/main/analysis/Fig4.png)
 
 It comes as no surprise, with the data thus far, that the urban cities provide the largest percent of fares, largest percent of rides, and have the highest percent of drivers. 
-![fig5](https://github.com/RachelRautenberg/PyBer_Analysis/blob/main/analysis/Fig4.png) ![fig6](https://github.com/RachelRautenberg/PyBer_Analysis/blob/main/analysis/Fig6.png) ![fig7](https://github.com/RachelRautenberg/PyBer_Analysis/blob/main/analysis/Fig7.png)
+
+![fig5](https://github.com/RachelRautenberg/PyBer_Analysis/blob/main/analysis/Fig5.png) ![fig6](https://github.com/RachelRautenberg/PyBer_Analysis/blob/main/analysis/Fig6.png) ![fig7](https://github.com/RachelRautenberg/PyBer_Analysis/blob/main/analysis/Fig7.png)
 
 A final graphic to share, shows that there is some similarities in total fares by city. For example, all city types see higher total fares in late February with a drop the following week.  Urban cities show the least consistency in total fare, depicted in the up and downs throughout March, while rural cities experience the most consistency with a starting and ending point almost identical, with generally smaller ups or downs seen week over week. 
 
